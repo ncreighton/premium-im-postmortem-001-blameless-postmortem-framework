@@ -1,0 +1,2 @@
+# premium-im-postmortem-001-blameless-postmortem-framework
+What if have a complete productivity system running today took minutes instead of hours?  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Blameless Postmortem Framework — fully configured and ready to use - Pre-built
